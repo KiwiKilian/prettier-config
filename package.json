@@ -2,11 +2,18 @@
   "name": "@kiwikilian/prettier-config",
   "version": "0.0.0",
   "description": "My unified Prettier config.",
-  "main": "index.json",
+  "author": "Kilian Finger",
+  "license": "MIT",
+  "keywords": ["prettier"],
   "repository": {
     "type": "git",
     "url": "https://github.com/KiwiKilian/prettier-config.git"
   },
+  "bugs": {
+    "url": "https://github.com/KiwiKilian/prettier-config/issues"
+  },
+  "homepage": "https://github.com/KiwiKilian/prettier-config#readme",
+  "main": "index.json",
   "files": [
     "index.json"
   ],
