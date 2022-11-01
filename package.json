@@ -1,0 +1,20 @@
+{
+  "name": "@kiwikilian/prettier-config",
+  "version": "0.0.0",
+  "description": "My unified Prettier config.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KiwiKilian/prettier-config.git"
+  },
+  "files": [
+    "index.json"
+  ],
+  "prettier": "./index.json",
+  "peerDependencies": {
+    "prettier": "2.7.1"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
