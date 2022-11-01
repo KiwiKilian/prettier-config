@@ -20,8 +20,6 @@ Apply the Prettier config by adding a `prettier` field pointing to `@kiwikilian/
 ```json
 {
   "name": "package-name",
-  ...
-  "prettier": "@kiwikilian/prettier-config",
-  ...
+  "prettier": "@kiwikilian/prettier-config"
 }
 ```
