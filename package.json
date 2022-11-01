@@ -2,7 +2,11 @@
   "name": "@kiwikilian/prettier-config",
   "version": "1.0.0",
   "description": "My unified Prettier config.",
-  "author": "Kilian Finger",
+  "author": {
+    "name": "Kilian Finger",
+    "email": "npm@kilianfinger.com",
+    "url": "https://www.kilianfinger.com/"
+  },
   "license": "MIT",
   "keywords": [
     "prettier"
