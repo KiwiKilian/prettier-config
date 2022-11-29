@@ -29,12 +29,12 @@
   },
   "prettier": "./index.json",
   "peerDependencies": {
-    "prettier": "2.7.1"
+    "prettier": "2.8.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "prettier": "2.7.1",
+    "prettier": "2.8.0",
     "semantic-release": "^19.0.5"
   }
 }
